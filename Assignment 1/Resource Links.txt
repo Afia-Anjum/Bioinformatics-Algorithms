@@ -1,0 +1,2 @@
+WGS collected from:
+https://www.ncbi.nlm.nih.gov/nuccore/AAAA02000036.1?report=fasta
