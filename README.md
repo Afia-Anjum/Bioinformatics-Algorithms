@@ -1,4 +1,4 @@
-This is the code repository for few coding assignments of CMPUT 606 – Algorithms in Bioinformatics (Winter 2020)
+This is the code repository for few of the coding assignments for the coruse CMPUT 606 – Algorithms in Bioinformatics (Winter 2020)
 
 Contains projects and solution for 
 Assignment 1: Reproduction of an intuitive shot-gun sequencing project.
