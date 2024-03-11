@@ -1,0 +1,101 @@
+Name of protein,Helix,Sheet,Coil,Actual H,Actual E
+1A0L_1|BETA-TRYPTASE|Homo sapiens (9606),22,69,153,63,263
+1A0P_1|SITE-SPECIFIC RECOMBINASE XERD|Escherichia coli (562),165,19,106,118,111
+1A0T_1|SUCROSE-SPECIFIC PORIN|Salmonella typhimurium (90371),74,94,245,98,4
+1A1O_3|PEPTIDE LS6 (KPIVQYDNF)|Human immunodeficiency virus 1 (11676),86,61,129,105,215
+1A02_4|AP-1 FRAGMENT FOS|Homo sapiens (9606),26,89,186,160,4
+1A2O_1|CHEB METHYLESTERASE|Salmonella typhimurium (90371),140,66,143,95,580
+1A2W_1|RIBONUCLEASE A|Bos taurus (9913),21,19,84,21,172
+"1A03_1|CALCYCLIN (RABBIT, CA2+)|Oryctolagus cuniculus (9986)",65,1,24,73,92
+1A3A_1|MANNITOL-SPECIFIC EII|Escherichia coli (83333),69,26,53,266,99
+1A4O_1|14-3-3 PROTEIN ZETA|Bos taurus (9913),163,21,61,60,48
+1A5F_1|MONOCLONAL ANTI-E-SELECTIN 7A9 ANTIBODY (LIGHT CHAIN)|Mus musculus (10090),29,77,114,259,20
+1A14_1|NEURAMINIDASE|Influenza A virus (11320),16,137,235,7,35
+1A45_1|GAMMAF CRYSTALLIN|Bos taurus (9913),43,42,88,628,0
+1A58_1|CYCLOPHILIN|Brugia malayi (6279),26,57,94,26,36
+1AF9_1|TETANUS NEUROTOXIN|Clostridium tetani (1513),53,163,236,16,112
+1B9Y_1|PROTEIN (TRANSDUCIN)|Bos taurus (9913),62,19,47,137,119
+1BDJ_1|CHEY|Escherichia coli (562),25,28,57,156,15
+1BRS_1|BARNASE|Bacillus amyloliquefaciens (1390),62,19,47,237,79
+1FYN_1|PHOSPHOTRANSFERASE FYN|Homo sapiens (9606),10,20,32,3,17
+1GVU_1|ENDOTHIAPEPSIN|ENDOTHIA PARASITICA (5116),49,107,174,50,97
+1HAG_1|PRETHROMBIN 2|Homo sapiens (9606),62,69,164,38,86
+1HMK_1|PROTEIN (ALPHA-LACTALBUMIN)|Capra hircus (9925),51,23,50,54,2
+1I5D_1|CHEMOTAXIS PROTEIN CHEA|Thermotoga maritima (2336),87,37,67,87,32
+1KF9_2|EXTRACELLULAR DOMAIN HUMAN GROWTH HORMONE RECEPTOR (1-238)|Homo sapiens (9606),32,71,135,67,82
+"1KMY_1|2,3-DIHYDROXYBIPHENYL 1,2-DIOXYGENASE|Burkholderia xenovorans (266265)",84,81,132,107,11
+1L36_1|LYSOZYME|Enterobacteria phage T4 (10665),93,24,47,17,58
+1MDC_1|INSECT FATTY ACID BINDING PROTEIN|Manduca sexta (7130),27,49,56,86,2
+1MZ4_1|cytochrome c550|Thermosynechococcus elongatus (146786),44,23,70,636,78
+1NHU_1|HEPATITIS C VIRUS NS5B RNA-DEPENDENT RNA POLYMERASE|Hepatitis C virus subtype 1b (31647),246,90,242,25,61
+1O2I_1|BETA-TRYPSIN|Bos taurus (9913),29,57,137,25,24
+1O4Q_1|PROTO-ONCOGENE TYROSINE-PROTEIN KINASE SRC|Homo sapiens (9606),20,33,55,140,33
+1ODF_1|HYPOTHETICAL 33.3 KDA PROTEIN IN ADE3-SER2 INTERGENIC REGION|SACCHAROMYCES CEREVISIAE (4932),123,43,124,2750,1075
+1Q3G_1|UDP-N-acetylglucosamine 1-carboxyvinyltransferase|Enterobacter cloacae (550),171,78,170,13,49
+1RCY_1|RUSTICYANIN|Acidithiobacillus ferrooxidans (920),19,49,83,414,289
+1RD8_1|hemagglutinin|Influenza A virus (11320),48,83,204,117,49
+1RPU_2|19 kDa protein|Carnation Italian ringspot virus (39443),60,30,82,24,53
+1RTF_2|TWO CHAIN TISSUE PLASMINOGEN ACTIVATOR|Homo sapiens (9606),40,61,151,922,900
+1S9C_1|Peroxisomal multifunctional enzyme type 2|Homo sapiens (9606),60,67,171,234,66
+1SVU_1|Modification methylase HhaI|Haemophilus haemolyticus (726),84,68,175,372,5
+"1U9E_1|Chains A,B|Estrogen receptor beta|Homo sapiens (9606)",147,19,75,188,30
+1UIO_1|ADENOSINE DEAMINASE|Mus musculus (10090),201,182,42,332,58
+"1VP5_1|2,5-diketo-D-gluconic acid reductase|Thermotoga maritima (243274)",334,308,44,93,148
+"1XH3_1|Chain A|HLA class I histocompatibility antigen, B-35 alpha chain|Homo sapiens (9606)",304,282,41,71,108
+1Y92_1|Seminal ribonuclease|Bos taurus (9913),253,236,37,104,3
+2A9N_1|fluorescein-scfv light chain|Homo sapiens (9606),97,139,35,24,193
+2AZA_1|AZURIN|Achromobacter xylosoxidans (85698),239,130,39,36,92
+2B4K_1|alpha-amino acid ester hydrolase|Acetobacter pasteurianus (438),244,239,59,759,497
+2DH4_1|YPL069C|Saccharomyces cerevisiae (4932),220,128,29,548,2
+2IO6_1|Wee1-like protein kinase|Homo sapiens (9606),224,185,48,118,28
+2JGX_1|COMPLEMENT FACTOR H|HOMO SAPIENS (9606),246,156,42,5,6
+2LF4_1|Gag polyprotein|Human immunodeficiency virus 1 (11676),165,132,35,155,2
+2LYM_1|HEN EGG WHITE LYSOZYME|Gallus gallus (9031),145,107,23,62,9
+2MWG_1|Blue-light photoreceptor|Bacillus subtilis (224308),220,218,54,289,102
+2NWD_1|Lysozyme C|null,257,251,42,70,3
+2OT0_1|Fructose-bisphosphate aldolase A|Oryctolagus cuniculus (9986),250,106,36,768,154
+2SNS_1|THERMONUCLEASE PRECURSOR|Staphylococcus aureus (1280),260,278,26,34,16
+2SOB_1|STAPHYLOCOCCAL NUCLEASE|Staphylococcus aureus (1280),250,236,47,10,3
+2UVR_1|DNA POLYMERASE IV|SULFOLOBUS SOLFATARICUS (273057),214,205,35,174,49
+"2W4U_1|TROPONIN C, SKELETAL MUSCLE|GALLUS GALLUS (9031)",249,136,43,4234,724
+3ARS_1|Chain A|Chitinase A|Vibrio harveyi (669),195,143,36,206,122
+3ARX_1|Chain A|Chitinase A|Vibrio harveyi (669),315,237,34,206,126
+3C14_3|Guanine nucleotide-binding protein G(s) subunit alpha isoforms short|Bos taurus (9913),189,104,28,341,140
+3D9Y_1|Profilin|Schizosaccharomyces pombe (4896),93,93,18,107,63
+3E6P_1|Prothrombin|Homo sapiens (9606),319,359,61,74,59
+3EFT_1|Carbonic anhydrase 2|null,184,163,32,50,80
+3HPH_1|Integrase|Maedi visna virus (36374),213,208,39,770,88
+3IJT_1|Putative uncharacterized protein|Streptococcus mutans (1309),184,133,37,89,95
+3NWM_1|Chain A|Peptide/beta-2microglobulin/MHC class I H-2Kd chimeric protein|Mus musculus (10090),154,221,44,78,150
+"3OOV_1|Methyl-accepting chemotaxis protein, putative|Geobacter sulfurreducens (243231)",243,228,35,168,60
+3WWC_1|Oxidized polyvinyl alcohol hydrolase|Pseudomonas sp. VM15C (237605),209,222,31,111,51
+4GGO_1|Trans-2-enoyl-CoA reductase|Treponema denticola ATCC 35405 (243275),60,53,16,784,153
+"4I4W_1|Chain A|HLA class I histocompatibility antigen, A-2 alpha chain|Homo sapiens (9606)",217,208,40,84,149
+"4JQV_1|Chain A|HLA class I histocompatibility antigen, B-18 alpha chain|Homo sapiens (9606)",222,254,65,84,148
+4MW5_1|Methionyl-tRNA synthetase|Trypanosoma brucei (5691),323,256,55,595,112
+4U0J_1|Enoyl-[acyl-carrier-protein] reductase [NADH]|Mycobacterium tuberculosis (83332),618,269,92,145,34
+4YRM_1|Histidyl-tRNA synthetase|Trypanosoma cruzi (strain CL Brener) (353153),269,300,54,410,154
+"4Z7V_1|Chains A,C|MHC class II HLA-DQ-alpha chain|Homo sapiens (9606)",247,132,26,220,679
+5ACN_1|ACONITASE|Sus scrofa (9823),200,214,28,270,106
+"5FUZ_1|645 FAB, HEAVY CHAIN|HOMO SAPIENS (9606)",279,294,60,34,211
+"5HL8_1|Chains A,B,C,D|Type II secretion system protein L|Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044",235,220,26,105,108
+"5K38_1|Chains A,B|Nuclear receptor ROR-gamma|Homo sapiens (9606)",397,387,54,364,10
+5KSV_1|Chain A|MHC class II HLA-DQ-alpha chain|Homo sapiens (9606),173,185,73,75,149
+5LIU_1|Aldo-keto reductase family 1 member B10|Homo sapiens (9606),189,104,28,137,29
+"5LUZ_1|Neurolysin, mitochondrial|Homo sapiens (9606)",241,236,38,892,52
+5PAL_1|PARVALBUMIN|Triakis semifasciata (30493),208,149,38,62,1
+5XNS_1|Chromosome partition protein Smc|Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1),194,195,30,143,15
+5XSO_1|Response regulator FixJ|Bradyrhizobium japonicum (375),434,394,70,419,10
+"6E3G_1|Chains A,B|Nuclear receptor ROR-gamma|Homo sapiens (9606)",404,387,81,530,340
+6E58_1|Secreted Endo-beta-N-acetylglucosaminidase (EndoS)|Streptococcus pyogenes M49 591 (294934),336,142,44,449,158
+"6JQH_1|Chains A,B|MaDA|Morus alba (3498)",413,580,134,215,73
+6OFQ_1|Heme-binding protein A / AI-2 binding protein A|Helicobacter pylori SS1 (102617),208,108,26,216,73
+6PU3_1|Heme-binding protein A|Helicobacter pylori (210),343,271,62,157,42
+6R3D_1|Chain A|Dual specificity protein kinase CLK1|Homo sapiens (9606),249,184,44,220,324
+6R6Y_1|Carbonic anhydrase 12|Homo sapiens (9606),404,387,81,519,7
+"6TEM_1|Chains A,E|Histone H3-like centromeric protein A|Homo sapiens (9606)",429,346,53,430,66
+"6U3E_1|Chains A,B|Cytohesin-3|Homo sapiens (9606)",157,137,40,82,104
+6VT4_1|Chain A|RNA Ligase|Naegleria gruberi (5762),97,72,37,61,30
+12E8_1|IGG1-KAPPA 2E8 FAB (LIGHT CHAIN)|Mus musculus (10090),426,401,87,105,108
+219L_1|T4 LYSOZYME|Enterobacteria phage T4 (10665),145,66,17,24,150
+821P_1|C-H-RAS P21 PROTEIN|Homo sapiens (9606),91,125,38,27,167
